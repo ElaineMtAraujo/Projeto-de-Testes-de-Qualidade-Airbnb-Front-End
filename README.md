@@ -38,9 +38,7 @@ Durante o desenvolvimento deste projeto, foram avaliadas as seguintes habilidade
 
 ## 📂 Estrutura do Repositório
 
-📊 /planilhas/Airbnb.xlsx - Planilha contendo os casos de teste, checklist de verificação e links para relatórios de bugs.
-
-📑 /docs/Airbnb_Tests.docx - Documento com detalhes sobre a execução dos testes, links para evidências e relatório final.
+📊 Airbnb.xlsx - Planilha contendo os casos de teste, checklist de verificação e links para relatórios de bugs.
 
 ## 💡 Possíveis Melhorias
 
